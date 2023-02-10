@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "godaddy",
+        "url": "https://www.godaddy.com/en-in/offers/godaddy?isc=INGDYGON1&countryview=1&currencyType=INR&cdtl=c_17587465578.g_141169705674.k_aud-305312510348:kwd-88659201.a_606438660853.d_c.ctv_g&bnb=b&gclid=Cj0KCQiA2-2eBhClARIsAGLQ2RnieUfpoYoW01HREFf4BP0MluIchwWNZhf1t3m1akTN-ByG4gM9gqwaAsUeEALw_wcB",
+        "category": "hosting",
+        "status": true,
+        "type": "affiliate"
+    },
+    {
+        "id": 2,
+        "name": "amazon",
+        "url": "https://www.amazon.in/?&ext_vrnc=hi&tag=googhydrabk1-21&ref=pd_sl_4qsiujpf5j_e&adgrpid=60456322738&hvpone=&hvptwo=&hvadid=486393568006&hvpos=&hvnetw=g&hvrand=14090491067598128280&hvqmt=e&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007776&hvtargid=kwd-360364908477&hydadcr=14451_2154369&gclid=Cj0KCQiA2-2eBhClARIsAGLQ2Rmv2d6pZGN3-4El2mR_VMw6cMJevkOtIynzWHHbrNaN1qpEe_PLMoYaAouWEALw_wcB",
+        "category": "ecommerce",
+        "status": true,
+        "type": "affiliate"
+    },
+    {
+        "id": 3,
+        "name": "wix",
+        "url": "https://www.wix.com/",
+        "category": "product",
+        "status": true,
+        "type": "affiliate"
+    },
+    {
+        "id": 4,
+        "name": "weebly",
+        "url": "https://www.weebly.com/in?c=mkt_w_chnl:aff_geo:all_prtnr:sas_subprtnr:3012824_camp:brand_adtype:txtlnk_ag:weebly_lptype:pdsite_var:358504&sscid=21k7_1h3k7",
+        "category": "product",
+        "status": true,
+        "type": "affiliate"
+    },
+    {
+        "id": 5,
+        "name": "flipkart",
+        "url": "https://www.flipkart.com/",
+        "category": "ecommerce",
+        "status": true,
+        "type": "affiliate"
+    },
+    {
+        "id": 6,
+        "name": "yatra",
+        "url": "https://www.yatra.com/",
+        "category": "travel",
+        "status": true,
+        "type": "affiliate"
+    },
+    {
+        "id": 7,
+        "name": "canva",
+        "url": "https://www.canva.com/en_gb/",
+        "category": "product",
+        "status": true,
+        "type": "affiliate"
+    },
+    {
+        "id": 8,
+        "name": "upstox",
+        "url": "https://upstox.com/open-demat-account/?f=VLRJ",
+        "category": "finance",
+        "status": true,
+        "type": "affiliate"
+    },
+    {
+        "id": 9,
+        "name": "zerodha",
+        "url": "https://zerodha.com/",
+        "category": "finance",
+        "status": true,
+        "type": "affiliate"
+    },
+    {
+        "id": 10,
+        "name": "makemytrip",
+        "url": "https://www.makemytrip.com/",
+        "category": "travel",
+        "status": true,
+        "type": "affiliate"
+    }
+]
